@@ -1,5 +1,5 @@
-// Danie Walker 26846179
-// Johnny Scholtz 31614795
+// Danie Walker
+// Johnny Scholtz
 // REII 313 Practical
 
 #include "mainwindow.h"
