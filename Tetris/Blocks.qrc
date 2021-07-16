@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>colourBlocks/I.png</file>
+        <file>colourBlocks/L.png</file>
+        <file>colourBlocks/M_L.jpg</file>
+        <file>colourBlocks/S.png</file>
+        <file>colourBlocks/SQ.png</file>
+        <file>colourBlocks/T.jpg</file>
+        <file>colourBlocks/Z.png</file>
+        <file>fullColourBlocks/L.jpg</file>
+        <file>fullColourBlocks/Line.jpg</file>
+        <file>fullColourBlocks/M_L.jpg</file>
+        <file>fullColourBlocks/S.jpg</file>
+        <file>fullColourBlocks/SQ.jpg</file>
+        <file>fullColourBlocks/T.jpg</file>
+        <file>fullColourBlocks/Tetris.png</file>
+        <file>fullColourBlocks/Z.jpg</file>
+        <file>background/backG.jpg</file>
+        <file>background/backG1.jpg</file>
+        <file>background/backG2.jpg</file>
+        <file>background/backG3.jpg</file>
+        <file>background/backG4.jpg</file>
+        <file>background/controls.PNG</file>
+        <file>background/tetris.jpg</file>
+        <file>background/backG5.jpg</file>
+        <file>colourBlocks/bomb.jpg</file>
+        <file>colourBlocks/bomb1.png</file>
+        <file>colourBlocks/bomb2.png</file>
+    </qresource>
+</RCC>
