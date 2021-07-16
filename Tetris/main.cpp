@@ -1,6 +1,5 @@
 // Danie Walker
 // Johnny Scholtz
-// REII 313 Practical
 
 #include "mainwindow.h"
 
