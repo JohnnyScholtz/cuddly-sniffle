@@ -1,6 +1,5 @@
-// Danie Walker 26846179
-// Johnny Scholtz 31614795
-// REII 313 Practical
+// Danie Walker
+// Johnny Scholtz
 
 #ifndef SECONDPLAYER_H
 #define SECONDPLAYER_H
